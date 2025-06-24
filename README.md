@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Nirupama Patra
-- 👨‍💻 I'm a Data Engineer and Software Developer with a strong background in Java,Java Spring, SpringBoot, cloud computing, , Mainframe and full-stack development.
-- 🧠 I have a Master’s degree in Advanced Computer Science from Cardiff University.
-- 📚 Formerly at IBM India Pvt Ltd, specializing in data processing, cloud solutions, and database management.
-- 💬 Ask me about Java, Mainframe Technologies, Azure, SQL, or full-stack development.
+👩‍💻 I’m a Software Developer & Data Engineer with expertise in Java, Spring Boot, Full Stack Development, JavaScript, React.
+🎓 Master’s in Advanced Computer Science from Cardiff University.
+💼 Former Application Developer at IBM India, focused on data processing, User interface, backend systems, and cloud solutions.
+☁️ Skilled in Java, Spring, SQL, React, JavaScript and building scalable applications.
+🚀 Passionate about learning, problem-solving, and developing impactful software.
 
 📫 You can connect with me on https://www.linkedin.com/in/nirupama-patra/
 
